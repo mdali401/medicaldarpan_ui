@@ -1,0 +1,9 @@
+.body_div {
+    padding: 1rem;
+}
+
+.filters_products_div {
+    display: flex;
+    position: relative;
+    gap: 10px;
+}

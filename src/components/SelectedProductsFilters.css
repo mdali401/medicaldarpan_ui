@@ -1,0 +1,30 @@
+.selected_product_filters_div {
+    padding-block: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.7rem;
+    margin-block: 5px;
+    font-weight: bold;
+}
+
+.selected_product_filters_div > p {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-block: 10px;
+}
+
+
+.selected_product_filters_div > p span {
+    font-size: 1.2rem;
+    color: gray;
+    padding-left: 5px;
+}
+
+#removeall {
+    background-color: transparent;
+    border: none;
+    font-weight: bold;
+    color:darkred;
+    cursor: pointer;
+}

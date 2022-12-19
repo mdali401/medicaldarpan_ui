@@ -1,0 +1,15 @@
+.filtersbox_div {
+    width: 200px;
+    max-width: 200px;
+    background-color: white;
+    margin-bottom: 1.2rem;
+}
+
+.filter_title {
+    background-color: lightgray;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding-block: 0.7rem;
+    width: 100%;
+}

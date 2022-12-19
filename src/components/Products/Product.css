@@ -1,0 +1,60 @@
+.product_div {
+    text-align: center;
+    border: 1px solid lightgray;
+    border-bottom: 1rem solid darkred;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+.product_info {
+    border-bottom: 2px solid lightgray;
+    padding: 0.7rem;
+}
+
+.product_info img {
+    object-fit: contain;
+    max-width: 350px;
+}
+
+.price {
+    padding-block: 0.5rem;
+    color: darkred;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
+.price span {
+    color: gray;
+    font-size: 1rem;
+}
+
+.manufacturer_div {
+    margin-block: 1rem;
+    font-weight: bold;
+}
+
+.manufacturer_div .title {
+    margin-bottom: 0.5rem;
+}
+
+.manufacturer_div .address {
+    color: gray;
+    font-size: 0.9rem;
+}
+
+.contactsupplier_div {
+    padding: 0.7rem;
+    color: seagreen;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.contacticon {
+    display: flex;
+    align-items: center;
+}
+

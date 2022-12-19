@@ -1,0 +1,46 @@
+header {
+    background-color: darkred;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.7rem 1rem;
+}
+
+.logo {
+    display: flex;
+    gap: 1rem;
+}
+.logo div {
+    min-width: 30px;
+    max-height: 30px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+header li {
+    margin-inline: 0.7rem;
+}
+
+header li:hover {
+    color: red;
+}
+
+.user_info ul {
+  display: flex;  
+  align-items: center;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+.user_info .icon {
+    padding-top: 0.5rem;
+    font-size: 1.7rem;
+}

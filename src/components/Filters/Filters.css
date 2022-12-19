@@ -1,0 +1,15 @@
+.filtersboxes_div {
+    position: sticky;
+    top: 10px;
+    width:min-content;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    padding-right: 1.5rem;
+    scrollbar-width: thin;
+}
+
+.filtersboxes_div::-webkit-scrollbar {
+    width: 1px;
+}
