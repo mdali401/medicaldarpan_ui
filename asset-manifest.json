@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/medicaldarpan_ui/static/css/main.287dadab.css",
+    "main.js": "/medicaldarpan_ui/static/js/main.cd4171fd.js",
+    "static/media/product_image.PNG": "/medicaldarpan_ui/static/media/product_image.27a44fc6438ba6717717.PNG",
+    "index.html": "/medicaldarpan_ui/index.html",
+    "main.287dadab.css.map": "/medicaldarpan_ui/static/css/main.287dadab.css.map",
+    "main.cd4171fd.js.map": "/medicaldarpan_ui/static/js/main.cd4171fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.287dadab.css",
+    "static/js/main.cd4171fd.js"
+  ]
+}
